@@ -1,4 +1,4 @@
-### Hi there, I'm Nitu Kumari - aka [nitu023][website] 👋
+----------### Hi there, I'm Nitu Kumari - aka [nitu023][website] 👋
 
 
 - 🔭 I’m UI Developer, Actively looking for new opportunities
