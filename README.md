@@ -1,10 +1,9 @@
 ### Hi there, I'm Nitu Kumari - aka [nitu023][website] 👋
 
 
-- 🔭 I’m Full Stack Devloper ,Actively looking for new opportunities
+- 🔭 I’m UI Developer, Actively looking for new opportunities
 - 🌱 I’m currently learning everything 
-- 🌱 I’m currently working as full stack developer at k12 techno service
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently working as UI Developer at Pennon Group Exeter.
 <br />
 ### Connect with me:
 
